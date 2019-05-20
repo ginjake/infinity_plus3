@@ -1,1 +1,1 @@
-# infinity_plus3_case
+# infinity_plus3
