@@ -1,2 +1,1 @@
-# これはなに？
-自作キーボードinfinity_plus3のkicad回路図と、blenderのケースデータです
+# infinity_plus3_case
