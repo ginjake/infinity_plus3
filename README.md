@@ -1,1 +1,3 @@
-# infinity_plus3_case
+# これはなに？
+自作キーボード `infinity_plus3` 
+の基板とケースのデータです。
